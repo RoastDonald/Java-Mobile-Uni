@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Довiдник Геймера</string>
+    <string name="btn_send">Вiдправити список</string>
+    <string name="btn_text">Показати iгри</string>
+    <string-array name="author">
+        <item>Ubisoft</item>
+        <item>Electronic Arts</item>
+        <item>Relic Entertainment</item>
+    </string-array>
+    <string name="Games">Студия:</string>
+    <string name="genre">Жанр:</string>
+    <string name="btn_ok_text">Ок</string>
+    <string name="btn2_text">Детальніше</string>
+
+    <string name="countryOfIssue">Країна випуску гри:</string>
+    <string name="countryOfIssue_Usa">США</string>
+    <string name="countryOfIssue_Canada">Канада</string>
+
+    <string name="criticallyTestedFlg">Оцiнено критиками</string>
+    <string name="onSaleFlg">У продажу</string>
+
+</resources>

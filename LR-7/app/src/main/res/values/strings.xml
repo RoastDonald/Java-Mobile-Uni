@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Довiдник Геймера</string>
+    <string name="btn_send">Вiдправити список</string>
+    <string name="btn_text">Показати iгри</string>
+
+    <string name="Games">Студия:</string>
+    <string name="genre">Жанр:</string>
+    <string name="btn_ok_text">Ок</string>
+    <string name="btn2_text">Детальніше</string>
+
+    <string name="countryOfIssue">Країна випуску гри:</string>
+    <string name="countryOfIssue_Usa">США</string>
+    <string name="countryOfIssue_Canada">Канада</string>
+
+    <string name="criticallyTestedFlg">Оцiнено критиками</string>
+    <string name="onSaleFlg">У продажу</string>
+    <string name="btn_authors"> Студии: </string>
+</resources>
